@@ -3,7 +3,6 @@
         <img src="web/img/samsam.png" height="100px">
     </a>
     <h1 align="center">Высший пилотаж</h1>
-    <br>
     <h2 align="center">Сайт по оказанию юридических услуг</h1>
     <br>
 </p>
