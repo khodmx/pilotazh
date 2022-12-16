@@ -7,6 +7,8 @@
     <h3 align="center">http://f0685700.xsph.ru</h3>
     <br>
 </p>
+<p>p.s. Данные на сайте выводятся из бд. При установке на локалку сайт корректно отображаться не будет без файла db.php с нужными конфигами, которые есть только у меня и у нескольких человек.</p>
+
 
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
