@@ -1,14 +1,10 @@
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
-        <img src="web/img/samsam.png" height="100px">
+        <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
     </a>
-    <h1 align="center">Высший пилотаж</h1>
-    <h2 align="center">Сайт по оказанию юридических услуг</h2>
-    <h3 align="center">http://a0872422.xsph.ru/</h3>
+    <h1 align="center">Yii 2 Basic Project Template</h1>
     <br>
 </p>
-<p>p.s. Данные на сайте выводятся из бд. При установке на локалку сайт корректно отображаться не будет без файла db.php с нужными конфигами, которые есть только у меня и у нескольких человек.</p>
-
 
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
