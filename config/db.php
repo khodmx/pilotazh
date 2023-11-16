@@ -2,13 +2,10 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=a0872422_pilotazh',
-    'username' => 'a0872422_pilotazh',
-    'password' => 'ungiewikpu',
+    'dsn' => '',
+    'username' => '',
+    'password' => '',
     'charset' => 'utf8',
 
-    // Schema cache options (for production environment)
-    //'enableSchemaCache' => true,
-    //'schemaCacheDuration' => 60,
-    //'schemaCache' => 'cache',
+    // а данные по дб я вам не дам, у вас документов нет)
 ];
