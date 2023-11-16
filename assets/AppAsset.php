@@ -27,7 +27,6 @@ class AppAsset extends AssetBundle
         'css/style.css',
         'css/site.css',
         
-        
     ];
     public $js = [
         'js/jquery.accordion.js',
@@ -36,6 +35,7 @@ class AppAsset extends AssetBundle
         'js/owl.carousel.min.js',
         'js/main.js',
         'js/carousel.js',
+        'js/script.js',
     ];
     public $depends = [
         'yii\web\YiiAsset',
