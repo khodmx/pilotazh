@@ -49,4 +49,3 @@ class SignupForm extends Model
         ];
     }
 }
-
