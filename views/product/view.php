@@ -27,10 +27,7 @@ use yii\helpers\Url;
               <button type="button" class="button1">Подробнее<br>об услуге</button>
     </a>
     </div>
-    
-    
-    
-      
+  
 
 </div>
 </div>
