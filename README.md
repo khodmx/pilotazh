@@ -6,7 +6,7 @@
     <br>
 </p>
 
-<a href="http://a0872422.xsph.ru/"></a>
+<a href="http://a0872422.xsph.ru/">Ссылка</a>
 
 
 
