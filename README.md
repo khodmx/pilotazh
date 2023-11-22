@@ -1,9 +1,8 @@
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
-        <img src="/web/img/samsam.png" height="100px">
-        <a href="http://a0872422.xsph.ru/">Ссылка</a>
+       <a href="http://a0872422.xsph.ru/"><img src="/web/img/samsam.png" height="100px"></a>
     </a>
-    <h1 align="center">Высший пилотаж - сайт юридических услуг</h1>
+    <h1 align="center">Высший пилотаж - сайт юридических услуг http://a0872422.xsph.ru/ </h1>
     <br>
 </p>
 
